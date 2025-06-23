@@ -1,10 +1,7 @@
----
-
 # 🎥 ViewTube — A Modern YouTube Clone
 
 *A sleek, responsive, production-ready video platform built with React, TypeScript & Tailwind CSS.*
 
----
 ---
 ## 🔗 [Live Demo ](https://vercel.com/nikhils-projects-9cc96f5f/youtube-clone)
 ---
